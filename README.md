@@ -59,6 +59,6 @@ terraform {
 
 # Credits
 
-[Siva](https://github.com/Sivasankar4), [Pari](https://github.com/paripuranam) and [Gokul](https://github.com/gokul-20)
+[Vishal](https://github.com/Vishallas), [Siva](https://github.com/Sivasankar4), [Pari](https://github.com/paripuranam) and [Gokul](https://github.com/gokul-20)
 
 Feel free to check out their profiles 😊
